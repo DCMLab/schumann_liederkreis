@@ -1,0 +1,10 @@
+Attempting to parse op39n05.mscx
+MC 65 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
+Doublings: mc  onset
+65  0        empty_harmony
+    0                  I\\
+Name: chords, dtype: object
+Done parsing op39n05.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable
