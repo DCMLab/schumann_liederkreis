@@ -1,12 +1,3 @@
-Attempting to parse op39n08.mscx
-Done parsing op39n08.mscx
+INFO     op39n08.ms3 -- Attempting to parse op39n08.mscx
+INFO     op39n08.ms3 -- Done parsing op39n08.mscx
 
-The following chords could not be parsed:
-    mc  mn onset  label
-ix                     
-32  14  14   1/4  .bVII
-35  16  16   1/4   .VII
-67  30  30   1/4  .bVII
-70  32  32   1/4  .bVII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
