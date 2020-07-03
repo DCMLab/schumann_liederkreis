@@ -1,4 +1,4 @@
 INFO     op39n02.ms3 -- Attempting to parse op39n02.mscx
 INFO     op39n02.ms3 -- Done parsing op39n02.mscx
 
-WARNING  op39n02.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  op39n02.expand_labels -- MC 28: #viio7 in major context is most probably an annotation error.

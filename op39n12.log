@@ -5,4 +5,4 @@ WARNING  op39n12.expand_labels -- The following chords could not be parsed:
     mc  mn onset  label
 ix                     
 33  18  18   3/8  V//IV
-WARNING  op39n12.expand_labels -- #viio43 in major context is most probably an annotation error.
+WARNING  op39n12.expand_labels -- MC 17: #viio43 in major context is most probably an annotation error.
