@@ -1,8 +1,2 @@
 INFO     op39n12.ms3 -- Attempting to parse op39n12.mscx
 INFO     op39n12.ms3 -- Done parsing op39n12.mscx
-
-WARNING  op39n12.expand_labels -- The following chords could not be parsed:
-    mc  mn onset  label
-ix                     
-33  18  18   3/8  V//IV
-WARNING  op39n12.expand_labels -- MC 17: #viio43 in major context is most probably an annotation error.

@@ -209,6 +209,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -1573,7 +1574,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -1604,7 +1605,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>V//IV</name>
+            <name>V/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2332,6 +2333,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -2404,6 +2406,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -8316,6 +8319,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -8388,6 +8392,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -8461,6 +8466,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>

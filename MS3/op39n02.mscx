@@ -225,6 +225,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -2293,7 +2294,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
