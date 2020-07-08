@@ -62,6 +62,6 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	re
 27	27	1/8	V2	a	I	I	V2	V		2				Mm7	1	0	-1, 1, 5, 2		1	-1
 27	27	3/8	V7/iii	a	I	I	V7/iii	V		7		iii		Mm7	1	0	5, 9, 6, 3		5	5
 28	28	0	I]	a	I	I	I	I						M	1	0	0, 4, 1		0	0
-28	28	1/8	#viio7/V	a	I		#viio7/V	#vii	o	7		V		o7	1	0	13, 10, 7, 4		13	13
+28	28	1/8	viio7/V	a	I		viio7/V	vii	o	7		V		o7	1	0	6, 3, 0, -3		6	6
 28	28	3/8	V7	a	I		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
 29	29	1/8	I\\	a	I		I	I					\\	M	1	0	0, 4, 1		0	0
