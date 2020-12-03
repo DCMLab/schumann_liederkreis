@@ -38,7 +38,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 11	11	3/4	0.75	4/4	1	1	III6	e	i		III6		III		6				M	1	1	1, -2, -3		-3	1
 12	12	0	0.0	4/4	1	1	viio/III	e	i		viio/III		vii	o			III		o	1	1	2, -1, -4		2	2
 12	12	3/4	0.75	4/4	1	1	#viio65	e	i		#viio65		#vii	o	65				o7	1	1	2, -1, -4, 5		5	2
-13	13	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+13	13	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 15	15	0	0.0	4/4	1	1	V(64)	e	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 15	15	1/4	0.25	4/4	1	1	V7(6)	e	i		V7(6)		V		7	6			Mm7	1	1	1, 5, -3, -1		1	1
 15	15	3/4	0.75	4/4	1	1	V7	e	i		V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
@@ -57,7 +57,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 19	19	3/4	0.75	4/4	1	1	III6	e	i		III6		III		6				M	1	1	1, -2, -3		-3	1
 20	20	0	0.0	4/4	1	1	viio6/III	e	i		viio6/III		vii	o	6		III		o	1	1	-1, -4, 2		2	-1
 20	20	1/2	0.5	4/4	1	1	#viio65	e	i		#viio65		#vii	o	65				o7	1	1	2, -1, -4, 5		5	2
-21	21	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+21	21	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 23	23	0	0.0	4/4	1	1	V(64)	e	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 23	23	1/4	0.25	4/4	1	1	V7(6)	e	i		V7(6)		V		7	6			Mm7	1	1	1, 5, -3, -1		1	1
 23	23	3/4	0.75	4/4	1	1	V7	e	i		V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
@@ -103,7 +103,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 37	37	0	0.0	4/4	1	1	#viio7	e	i		#viio7		#vii	o	7				o7	1	1	5, 2, -1, -4		5	5
 38	38	0	0.0	4/4	1	1	VI6(13)	e	i		VI6(13)		VI		6	13			M	1	1	0, -3, -4	-1	-4	0
 38	38	1/2	0.5	4/4	1	1	VI6	e	i		VI6		VI		6				M	1	1	0, -3, -4		-4	0
-39	39	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+39	39	0	0.0	4/4	1	1	.Ger6	e	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 40	40	0	0.0	4/4	1	1	V(64)	e	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 40	40	3/4	0.75	4/4	1	1	V	e	i		V		V						M	1	1	1, 5, 2		1	1
 41	41	0	0.0	4/4	1	1	i	e	i		i		i						m	1	1	0, -3, 1		0	0
