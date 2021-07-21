@@ -231,6 +231,7 @@
     <metaTag name="composer">Robert Schumann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-02-22</metaTag>
+    <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist">Joseph von Eichendorff</metaTag>
     <metaTag name="movementNumber">6</metaTag>
     <metaTag name="movementTitle">Schöne Fremde</metaTag>

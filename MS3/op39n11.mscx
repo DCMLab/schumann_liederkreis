@@ -229,6 +229,7 @@
     <metaTag name="composer">Robert Schumann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-02-28</metaTag>
+    <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist">Joseph von Eichendorff</metaTag>
     <metaTag name="movementNumber">11</metaTag>
     <metaTag name="movementTitle">Im Walde</metaTag>
