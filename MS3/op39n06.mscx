@@ -224,7 +224,10 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1840</metaTag>
+    <metaTag name="composed_start">1840</metaTag>
     <metaTag name="composer">Robert Schumann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-02-22</metaTag>
@@ -235,6 +238,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="source">http://musescore.com/openscore-lieder-corpus/schumann-robert---liederkreis-op39-no6---schne-fremde</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber">39</metaTag>
