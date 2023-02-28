@@ -1,48 +1,48 @@
-mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	4/4	3	1	f#.i	f#	i		i	i							m	1	1	0, -3, 1		0	0
-3	3	0	0	4/4	3	1	V	f#	i		V	V							M	1	1	1, 5, 2		1	1
-4	4	0	0	4/4	3	1	i	f#	i		i	i							m	1	1	0, -3, 1		0	0
-4	4	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-5	5	0	0	4/4	3	1	i\\	f#	i		i	i						\\	m	1	1	0, -3, 1		0	0
-6	6	1/2	1/2	4/4	3	1	viio7/V	f#	i		viio7/V	vii	o	7		V			o7	1	1	6, 3, 0, -3		6	6
-7	7	0	0	4/4	3	1	#viio43(4)	f#	i		#viio43(4)	#vii	o	43	4				o7	1	1	-1, -4, 5, -3		5	-1
-7	7	1/2	1/2	4/4	3	1	#viio43	f#	i		#viio43	#vii	o	43					o7	1	1	-1, -4, 5, 2		5	-1
-8	8	0	0	4/4	3	1	i6	f#	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
-8	8	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-9	9	0	0	4/4	3	1	i\\	f#	i		i	i						\\	m	1	1	0, -3, 1		0	0
-10	10	0	0	4/4	3	1	III.V65/V	f#	III		V65/V	V		65		V			Mm7	1	0	6, 3, 0, 2		2	6
-10	10	1/2	1/2	4/4	3	1	V65(4)/V	f#	III		V65(4)/V	V		65	4	V			Mm7	1	0	1, 3, 0, 2		2	1
-11	11	0	0	4/4	3	1	V43(9)/V	f#	III		V43(9)/V	V		43	9	V			Mm7	1	0	3, 0, 2, 6	4	2	3
-11	11	1/2	1/2	4/4	3	1	V65/V	f#	III		V65/V	V		65		V			Mm7	1	0	6, 3, 0, 2		2	6
-12	12	0	0	4/4	3	1	V(64)	f#	III		V(64)	V			64				M	1	0	1, 0, 4		1	1
-12	12	1/2	1/2	4/4	3	1	V2	f#	III		V2	V		2					Mm7	1	0	-1, 1, 5, 2		1	-1
-13	13	0	0	4/4	3	1	I6	f#	III		I6	I		6					M	1	0	4, 1, 0		0	4
-13	13	3/4	3/4	4/4	3	1	IV6	f#	III		IV6	IV		6					M	1	0	3, 0, -1		-1	3
-14	14	0	0	4/4	3	1	V43/IV	f#	III		V43/IV	V		43		IV			Mm7	1	0	1, -2, 0, 4		0	1
-14	14	1/2	1/2	4/4	3	1	iv.iv2	f#	iv		iv2	iv		2					mm7	1	1	-3, -1, -4, 0		-1	-3
-15	15	0	0	4/4	3	1	V43	f#	iv		V43	V		43					Mm7	1	1	2, -1, 1, 5		1	2
-15	15	1/2	1/2	4/4	3	1	V7	f#	iv		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-16	16	0	0	4/4	3	1	i	f#	iv		i	i							m	1	1	0, -3, 1		0	0
-16	16	1/2	1/2	4/4	3	1	i6	f#	iv		i6	i		6					m	1	1	-3, 1, 0		0	-3
-17	17	0	0	4/4	3	1	viio43(4)	f#	iv		viio43(4)	vii	o	43	4				o7	1	1	-8, -11, -2, -3		-2	-8
-17	17	1/2	1/2	4/4	3	1	viio43	f#	iv		viio43	vii	o	43					o7	1	1	-8, -11, -2, -5		-2	-8
-18	18	0	0	4/4	3	1	i6	f#	iv		i6	i		6					m	1	1	-3, 1, 0		0	-3
-18	18	1/2	1/2	4/4	3	1	V7	f#	iv		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-19	19	0	0	4/4	3	1	i	f#	iv		i	i							m	1	1	0, -3, 1		0	0
-19	19	1/2	1/2	4/4	3	1	i.viio7/V	f#	i		viio7/V	vii	o	7		V			o7	1	1	6, 3, 0, -3		6	6
-20	20	0	0	4/4	3	1	V(64)	f#	i		V(64)	V			64				M	1	1	1, 0, -3		1	1
-20	20	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-21	21	0	0	4/4	3	1	i[i\\	f#	i	i	i	i						\\	m	1	1	0, -3, 1		0	0
-21	21	1/2	1/2	4/4	3	1	V7/iv	f#	i	i	V7/iv	V		7		iv			Mm7	1	1	0, 4, 1, -2		0	0
-22	22	0	0	4/4	3	1	bII	f#	i	i	bII	bII							M	1	1	-5, -1, -4		-5	-5
-22	22	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
-23	23	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
-23	23	1/2	1/2	4/4	3	1	V7/iv	f#	i	i	V7/iv	V		7		iv			Mm7	1	1	0, 4, 1, -2		0	0
-24	24	0	0	4/4	3	1	bII	f#	i	i	bII	bII							M	1	1	-5, -1, -4		-5	-5
-24	24	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
-25	25	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
-25	25	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
-26	26	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
-26	26	1/2	1/2	4/4	3	1	iv	f#	i	i	iv	iv							m	1	1	-1, -4, 0		-1	-1
-26	26	3/4	3/4	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
-27	27	0	0	4/4	3	1	I]\\	f#	i	i	I	I						\\	M	1	1	0, 4, 1		0	0
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	8.0	0	0	4/4	3	1	f#.i	f#	i		i	i							m	1	1	0, -3, 1		0	0
+3	3	8	4.0	0	0	4/4	3	1	V	f#	i		V	V							M	1	1	1, 5, 2		1	1
+4	4	12	2.0	0	0	4/4	3	1	i	f#	i		i	i							m	1	1	0, -3, 1		0	0
+4	4	14	2.0	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+5	5	16	6.0	0	0	4/4	3	1	i\\	f#	i		i	i						\\	m	1	1	0, -3, 1		0	0
+6	6	22	2.0	1/2	1/2	4/4	3	1	viio7/V	f#	i		viio7/V	vii	o	7		V			o7	1	1	6, 3, 0, -3		6	6
+7	7	24	2.0	0	0	4/4	3	1	#viio43(4)	f#	i		#viio43(4)	#vii	o	43	4				o7	1	1	-1, -4, 5, -3		5	-1
+7	7	26	2.0	1/2	1/2	4/4	3	1	#viio43	f#	i		#viio43	#vii	o	43					o7	1	1	-1, -4, 5, 2		5	-1
+8	8	28	2.0	0	0	4/4	3	1	i6	f#	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+8	8	30	2.0	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+9	9	32	4.0	0	0	4/4	3	1	i\\	f#	i		i	i						\\	m	1	1	0, -3, 1		0	0
+10	10	36	2.0	0	0	4/4	3	1	III.V65/V	f#	III		V65/V	V		65		V			Mm7	1	0	6, 3, 0, 2		2	6
+10	10	38	2.0	1/2	1/2	4/4	3	1	V65(4)/V	f#	III		V65(4)/V	V		65	4	V			Mm7	1	0	1, 3, 0, 2		2	1
+11	11	40	2.0	0	0	4/4	3	1	V43(9)/V	f#	III		V43(9)/V	V		43	9	V			Mm7	1	0	3, 0, 2, 6	4	2	3
+11	11	42	2.0	1/2	1/2	4/4	3	1	V65/V	f#	III		V65/V	V		65		V			Mm7	1	0	6, 3, 0, 2		2	6
+12	12	44	2.0	0	0	4/4	3	1	V(64)	f#	III		V(64)	V			64				M	1	0	1, 0, 4		1	1
+12	12	46	2.0	1/2	1/2	4/4	3	1	V2	f#	III		V2	V		2					Mm7	1	0	-1, 1, 5, 2		1	-1
+13	13	48	3.0	0	0	4/4	3	1	I6	f#	III		I6	I		6					M	1	0	4, 1, 0		0	4
+13	13	51	1.0	3/4	3/4	4/4	3	1	IV6	f#	III		IV6	IV		6					M	1	0	3, 0, -1		-1	3
+14	14	52	2.0	0	0	4/4	3	1	V43/IV	f#	III		V43/IV	V		43		IV			Mm7	1	0	1, -2, 0, 4		0	1
+14	14	54	2.0	1/2	1/2	4/4	3	1	iv.iv2	f#	iv		iv2	iv		2					mm7	1	1	-3, -1, -4, 0		-1	-3
+15	15	56	2.0	0	0	4/4	3	1	V43	f#	iv		V43	V		43					Mm7	1	1	2, -1, 1, 5		1	2
+15	15	58	2.0	1/2	1/2	4/4	3	1	V7	f#	iv		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+16	16	60	2.0	0	0	4/4	3	1	i	f#	iv		i	i							m	1	1	0, -3, 1		0	0
+16	16	62	2.0	1/2	1/2	4/4	3	1	i6	f#	iv		i6	i		6					m	1	1	-3, 1, 0		0	-3
+17	17	64	2.0	0	0	4/4	3	1	viio43(4)	f#	iv		viio43(4)	vii	o	43	4				o7	1	1	-8, -11, -2, -3		-2	-8
+17	17	66	2.0	1/2	1/2	4/4	3	1	viio43	f#	iv		viio43	vii	o	43					o7	1	1	-8, -11, -2, -5		-2	-8
+18	18	68	2.0	0	0	4/4	3	1	i6	f#	iv		i6	i		6					m	1	1	-3, 1, 0		0	-3
+18	18	70	2.0	1/2	1/2	4/4	3	1	V7	f#	iv		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+19	19	72	2.0	0	0	4/4	3	1	i	f#	iv		i	i							m	1	1	0, -3, 1		0	0
+19	19	74	2.0	1/2	1/2	4/4	3	1	i.viio7/V	f#	i		viio7/V	vii	o	7		V			o7	1	1	6, 3, 0, -3		6	6
+20	20	76	2.0	0	0	4/4	3	1	V(64)	f#	i		V(64)	V			64				M	1	1	1, 0, -3		1	1
+20	20	78	2.0	1/2	1/2	4/4	3	1	V7	f#	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+21	21	80	2.0	0	0	4/4	3	1	i[i\\	f#	i	i	i	i						\\	m	1	1	0, -3, 1		0	0
+21	21	82	2.0	1/2	1/2	4/4	3	1	V7/iv	f#	i	i	V7/iv	V		7		iv			Mm7	1	1	0, 4, 1, -2		0	0
+22	22	84	2.0	0	0	4/4	3	1	bII	f#	i	i	bII	bII							M	1	1	-5, -1, -4		-5	-5
+22	22	86	2.0	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
+23	23	88	2.0	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
+23	23	90	2.0	1/2	1/2	4/4	3	1	V7/iv	f#	i	i	V7/iv	V		7		iv			Mm7	1	1	0, 4, 1, -2		0	0
+24	24	92	2.0	0	0	4/4	3	1	bII	f#	i	i	bII	bII							M	1	1	-5, -1, -4		-5	-5
+24	24	94	2.0	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
+25	25	96	2.0	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
+25	25	98	2.0	1/2	1/2	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
+26	26	100	2.0	0	0	4/4	3	1	I	f#	i	i	I	I							M	1	1	0, 4, 1		0	0
+26	26	102	1.0	1/2	1/2	4/4	3	1	iv	f#	i	i	iv	iv							m	1	1	-1, -4, 0		-1	-1
+26	26	103	1.0	3/4	3/4	4/4	3	1	#viio2	f#	i	i	#viio2	#vii	o	2					o7	1	1	-4, 5, 2, -1		5	-4
+27	27	104	8.0	0	0	4/4	3	1	I]\\	f#	i	i	I	I						\\	M	1	1	0, 4, 1		0	0
