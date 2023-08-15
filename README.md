@@ -1,6 +1,6 @@
 
 
-# Overview
+## Overview
 |file_name|measures|labels|standard|annotators | reviewers  |
 |---------|-------:|-----:|--------|-----------|------------|
 |op39n01  |      28|    47|2.1.0   |Uli Kneisel|Adrian Nagel|
@@ -17,4 +17,4 @@
 |op39n12  |      31|    54|2.1.0   |Uli Kneisel|Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
