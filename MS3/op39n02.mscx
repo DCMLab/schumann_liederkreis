@@ -232,7 +232,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.35</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>0</showUnprintable>
@@ -366,6 +365,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
@@ -5312,7 +5315,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>a.I64</name>
+            <name>A.I64</name>
             <offset x="0" y="-2.76456"/>
             </Harmony>
           <Rest>
@@ -5536,7 +5539,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/ii</name>
+            <name>#viio7/ii</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -5938,10 +5941,6 @@
             <placement>above</placement>
             <offset x="0.329141" y="-4"/>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi6</name>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -6035,6 +6034,16 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi6</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8917,14 +8926,14 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
