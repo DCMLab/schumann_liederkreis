@@ -5,7 +5,7 @@
 |---------|-------:|-----:|--------|-----------|------------|
 |op39n01  |      28|    47|2.1.0   |Uli Kneisel|Adrian Nagel|
 |op39n02  |      30|    66|2.1.0   |Uli Kneisel|Adrian Nagel|
-|op39n03  |      72|   105|2.1.0   |Uli Kneisel|Adrian Nagel|
+|op39n03  |      72|   106|2.1.0   |Uli Kneisel|Adrian Nagel|
 |op39n04  |      39|    53|2.1.0   |Uli Kneisel|Adrian Nagel|
 |op39n05  |      68|    82|2.1.0   |Uli Kneisel|Adrian Nagel|
 |op39n06  |      30|    68|2.1.0   |Uli Kneisel|Adrian Nagel|
