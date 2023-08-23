@@ -6700,7 +6700,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/ii</name>
+            <name>V/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7005,7 +7005,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/ii</name>
+            <name>V/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
