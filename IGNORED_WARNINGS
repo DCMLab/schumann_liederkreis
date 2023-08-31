@@ -1,0 +1,5 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '3/8', 'V/ii') ms3.Parse.schumann_liederkreis.op39n11
+	The label V/ii in m.5 should be warranted considering the pedal is over the note E which is V of A. Perhaps verify the standard, as this was done to 2.1.0 and pedal point updates may have happened.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '3/8', 'V/ii') ms3.Parse.schumann_liederkreis.op39n11
+	The label V/ii in m.11 should be warranted considering the pedal is over the note E, which is V of A. Perhaps verify if the standard matches for pedal points.
