@@ -11,17 +11,19 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/johentsch/ms3/main/schemas/measures/oWlUFOdD06d1_A.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/measures/oWlUFOdD06d1_A.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
-    "@id": "https://github.com/johentsch/ms3",
+    "@id": "https://pypi.org/project/ms3/",
     "name": "ms3",
     "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
     "author": {
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.1.1"
-  }
+    "softwareVersion": "2.5.2"
+  },
+  "git_revision": "ae59d96b031fa92c7b71295e01856432ca0a0c75",
+  "git_tag": "v2.1-3-gae59d96"
 }
