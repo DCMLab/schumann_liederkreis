@@ -302,6 +302,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -376,20 +377,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>14.4563</height>
+        <height>16.7747</height>
         <bottomGap>0</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>Title</style>
+          <offset x="0.17047" y="0.522819"/>
           <text>5. Mondnacht</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Robert Schumann</text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Liederkreis, Op.39</text>
           </Text>
         <Text>
           <style>Lyricist</style>

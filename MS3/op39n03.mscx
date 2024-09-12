@@ -304,6 +304,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <controller ctrl="93" value="64"/>
@@ -379,20 +380,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>17.4786</height>
+        <height>20.3829</height>
         <bottomGap>10.3704</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>Title</style>
+          <offset x="0" y="0.589228"/>
           <text>3. Waldesgespräch</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Robert Schumann</text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Liederkreis, Op.39</text>
           </Text>
         <Text>
           <style>Lyricist</style>

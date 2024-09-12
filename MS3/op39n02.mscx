@@ -383,20 +383,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>14.2931</height>
+        <height>19.4703</height>
         <bottomGap>0</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>Title</style>
+          <offset x="0" y="2.02393"/>
           <text>2. Intermezzo</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Robert Schumann</text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Liederkreis, Op.39</text>
           </Text>
         <Text>
           <style>Lyricist</style>

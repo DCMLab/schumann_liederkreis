@@ -304,6 +304,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -378,22 +379,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>11.6512</height>
+        <height>15.6535</height>
         <bottomGap>0</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
-          <offset x="0.192884" y="5.11889"/>
-          <text> 9. Wehmuth</text>
+          <style>Title</style>
+          <text>9. Wehmuth</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Robert Schumann</text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <offset x="0" y="-0.098504"/>
-          <text>Liederkreis, Op.39</text>
           </Text>
         <Text>
           <style>Lyricist</style>

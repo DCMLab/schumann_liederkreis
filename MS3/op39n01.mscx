@@ -293,6 +293,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -368,12 +369,13 @@
         <bottomGap>0</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-1</style>
-          <text>Liederkreis, Op.39</text>
+          <style>Title</style>
+          <offset x="0" y="0.17047"/>
+          <text>1. In der Fremde</text>
           </Text>
         <Text>
-          <style>User-2</style>
-          <text>1. In der Fremde (I)</text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
