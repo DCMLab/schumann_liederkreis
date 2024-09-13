@@ -234,27 +234,34 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>0</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7351</metaTag>
     <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1840</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Liederkreis,_Op._39_(Schumann)</metaTag>
     <metaTag name="composed_start">1840</metaTag>
     <metaTag name="composer">Robert Schumann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)
 </metaTag>
     <metaTag name="creationDate">2018-02-22</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Liederkreis%2C_Op.39_%28Schumann%2C_Robert%29</metaTag>
     <metaTag name="lyricist">Joseph von Eichendorff</metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Waldesgespräch</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/d81c8bf6-f122-3d08-af95-11e77057f34e</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/51730</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="source">http://musescore.com/openscore-lieder-corpus/scores/4987626</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber">39</metaTag>
-    <metaTag name="workTitle">Liederkreis, Op.39</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/181424943/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q1469612</metaTag>
+    <metaTag name="workNumber">Op. 39</metaTag>
+    <metaTag name="workTitle">Liederkreis</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -297,6 +304,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <controller ctrl="93" value="64"/>
@@ -372,20 +380,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>17.4786</height>
+        <height>20.3829</height>
         <bottomGap>10.3704</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>Title</style>
+          <offset x="0" y="0.589228"/>
           <text>3. Waldesgespräch</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Liederkreis, Op. 39</text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Robert Schumann</text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Liederkreis, Op.39</text>
           </Text>
         <Text>
           <style>Lyricist</style>
