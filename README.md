@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/schumann_liederkreis?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/388184940.svg)](https://doi.org/10.5281/zenodo.14997104)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/schumann_liederkreis)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -14,6 +14,27 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Robert Schumann – Liederkreis (A corpus of annotated scores)
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within  
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs  
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).  
+
+Robert Schumann's op. 39 Liederkreis is one of two works bearing that same title, both of  
+which Schumann wrote during his 1840 "Liederjahr" (Year of Song); incidentally, 1840 was  
+the same year of Schumann's marriage to Clara Wieck. Other vocal works from  
+Schumann's "Liederjahr" include the famous Dichterliebe and Frauenliebe und Leben.  
+Incidentally, these works are Schumann's first published works not for solo piano, his only  
+known chamber work prior to 1840 being the posthumously published C minor Piano Quartet  
+of 1829. It was, in fact, Clara who encouraged Robert to branch out beyond solo-piano genres,  
+and the height of emotion showcased in these 1840 songs speaks to a primed sensitivity  
+already latent in Robert's practice.  
+  
+Op. 39, the "Eichendorff Liederkreis," sets excerpts from Joseph von Eichendorff's collection  
+Intermezzo. Unlike most other song cycles in Schumann's oeuvre, these poems do not directly  
+convey a narrative, instead portraying a series of landscapes and nature images shot through  
+with intense and abrupt emotional outbursts. Schumann's piano writing is tightly conjoined  
+with melodic figuration, showcasing a logical early extension of his solo-piano technique in  
+a vocal context. Our annotations reveal the harmonic framework that supports the rich polyphonic  
+details present in this voice-and-piano texture.  
 
 ## Getting the data
 
@@ -80,7 +101,7 @@ Please [create an issue](https://github.com/DCMLab/schumann_liederkreis/issues) 
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Robert Schumann – Liederkreis (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Robert Schumann – Liederkreis (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997104
 
 ## License
 
