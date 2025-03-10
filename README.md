@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/schumann_liederkreis?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/388184940.svg)](https://doi.org/10.5281/zenodo.14997104)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/schumann_liederkreis)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -101,7 +101,7 @@ Please [create an issue](https://github.com/DCMLab/schumann_liederkreis/issues) 
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Robert Schumann – Liederkreis (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Robert Schumann – Liederkreis (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997104
 
 ## License
 
