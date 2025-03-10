@@ -14,6 +14,27 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Robert Schumann – Liederkreis (A corpus of annotated scores)
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within  
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs  
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).  
+
+Robert Schumann's op. 39 Liederkreis is one of two works bearing that same title, both of  
+which Schumann wrote during his 1840 "Liederjahr" (Year of Song); incidentally, 1840 was  
+the same year of Schumann's marriage to Clara Wieck. Other vocal works from  
+Schumann's "Liederjahr" include the famous Dichterliebe and Frauenliebe und Leben.  
+Incidentally, these works are Schumann's first published works not for solo piano, his only  
+known chamber work prior to 1840 being the posthumously published C minor Piano Quartet  
+of 1829. It was, in fact, Clara who encouraged Robert to branch out beyond solo-piano genres,  
+and the height of emotion showcased in these 1840 songs speaks to a primed sensitivity  
+already latent in Robert's practice.  
+  
+Op. 39, the "Eichendorff Liederkreis," sets excerpts from Joseph von Eichendorff's collection  
+Intermezzo. Unlike most other song cycles in Schumann's oeuvre, these poems do not directly  
+convey a narrative, instead portraying a series of landscapes and nature images shot through  
+with intense and abrupt emotional outbursts. Schumann's piano writing is tightly conjoined  
+with melodic figuration, showcasing a logical early extension of his solo-piano technique in  
+a vocal context. Our annotations reveal the harmonic framework that supports the rich polyphonic  
+details present in this voice-and-piano texture.  
 
 ## Getting the data
 
